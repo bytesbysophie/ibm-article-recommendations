@@ -6,7 +6,7 @@
 3. [Authors and Acknowledgements](#Authors-Acknowledgements)
 
 ## Project Motivation and Description <a name="Project-Motivation"></a>
-This project aims to make article predictions to users based on their own and other users prior reading content interaction.
+This project aims to make article predictions to users based on their own and other users prior article interaction.
 
 ## File Descriptions <a name="File-Descriptions"></a>
 * data/ contains the data about articles and user interactions with those articles
